@@ -2,6 +2,7 @@
 - 👀 I’m interested in fapping.
 - 🌱 I’m currently learning to masturbate.
 - 💞️ I’m looking to collaborate on Pornhub.
+- 🥵 I have a crush on [Ava](https://space.bilibili.com/672346917)!
 
 <!---
 YenalyLiew/YenalyLiew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
