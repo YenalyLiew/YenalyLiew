@@ -1,3 +1,5 @@
+[![YenalyLiew's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenalyLiew)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @YenalyLiew
 - 👀 I’m interested in fapping.
 - 🌱 I’m currently learning to masturbate.
