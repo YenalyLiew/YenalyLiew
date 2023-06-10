@@ -1,12 +1,21 @@
-我是 **Yenaly**，会一点 Android 程序开发，懂点 Java 和 Kotlin！
+# Hey, Yenaly Liew here!
 
-上不了台面的东西反而是我写代码的动力！
+你好，这里是 Yenaly Liew！
 
-我最喜欢的代码片段：
+~~Been virgin for 20 years.~~
 
-```c
-powerCon(1 | 2 | 6 | 7 | 11 | 52 | 57 | 58 | 65, 10);
-```
+目前运用比较熟练的语言：Kotlin, Java, Dart
+
+了解的语言：C, C++, C#
+
+懂点 Android 原生开发，只是懂点，目前正在学习 Flutter 相关。
+
+~~我的 Han1meViewer！！！本来好好的，现在都快40个star了，结果网站加固了！！！之后我就不想做了UwU~~
+
+### Github Stats:
 
 [![YenalyLiew's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenalyLiew&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YenalyLiew&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
