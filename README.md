@@ -10,8 +10,6 @@
 
 懂点 Android 原生开发，只是懂点，目前正在学习 Flutter 相关。
 
-~~我的 Han1meViewer！！！本来好好的，现在都快40个star了，结果网站加固了！！！之后我就不想做了UwU~~
-
 ### Github Stats:
 
 [![YenalyLiew's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenalyLiew&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
