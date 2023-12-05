@@ -1,19 +1,39 @@
-# Hey, Yenaly Liew here!
+<h1 align="center">Hi 👋, I'm Yenaly</h1>
 
-你好，这里是 Yenaly Liew！
+<h3 align="center">A 20-year-old developer, and also a virgin UwU.</h3>
 
-~~Been virgin for 20 years.~~
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yenalyliew&label=Profile%20views&color=0e75b6&style=flat" alt="yenalyliew" /> </p>
 
-目前运用比较熟练的语言：Kotlin, Java, Dart
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yenalyliew" alt="yenalyliew" /></a> </p>
 
-了解的语言：C, C++, C#
+- 🔭 I’m currently working on [Han1meViewer](https://github.com/YenalyLiew/Han1meViewer)
 
-懂点 Android 原生开发，只是懂点，目前正在学习 Flutter 相关。
+- 🌱 I’m currently learning **everything**
 
-### Github Stats:
+- 👯 I’m looking to collaborate on **everything if you wanna help**
 
-[![YenalyLiew's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenalyLiew&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🤝 I’m looking for help with [Han1meViewer](https://github.com/YenalyLiew/Han1meViewer)
 
-### Top Languages:
+- 📝 I regularly write articles on [juejin](https://juejin.cn/user/4156572929374327)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YenalyLiew&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **nothing**
+
+- 📄 Know about my experiences [here](http://localhost:8080/)
+
+- ⚡ Fun fact **I've learned a lot, but I can't do anything well. :(**
+
+<h3 align="left">📊 Languages and Tools</h3>
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yenalyliew&show_icons=true&locale=en&layout=compact" alt="yenalyliew" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yenalyliew&show_icons=true&locale=en" alt="yenalyliew" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yenalyliew&" alt="yenalyliew" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
