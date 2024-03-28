@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **nothing**
 
-- 📄 Know about my experiences [here](http://localhost:8080/)
+- 📄 Know about my experiences [here](http://yenalyliew.github.io/)
 
-- ⚡ Fun fact **I've learned a lot, but I can't do anything well. :(**
+- ⚡ Fun fact **Here is no fun fact :)**
 
 <h3 align="left">📊 Languages and Tools</h3>
 
