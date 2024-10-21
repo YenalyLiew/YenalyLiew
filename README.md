@@ -1,24 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yenaly</h1>
 
-<h3 align="center">A 21-year-old developer, and also a virgin UwU.</h3>
+<h3 align="center">I'm a virgin, also a developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yenalyliew&label=Profile%20views&color=0e75b6&style=flat" alt="yenalyliew" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yenalyliew" alt="yenalyliew" /></a> </p>
 
-- 🔭 I’m currently working on [Han1meViewer](https://github.com/YenalyLiew/Han1meViewer)
-
 - 🌱 I’m currently learning **everything**
 
 - 👯 I’m looking to collaborate on **everything if you wanna help**
 
-- 🤝 I’m looking for help with [Han1meViewer](https://github.com/YenalyLiew/Han1meViewer)
-
-- 📝 I regularly write articles on [juejin](https://juejin.cn/user/4156572929374327)
-
 - 💬 Ask me about **nothing**
-
-- 📄 Know about my experiences [here](http://yenalyliew.github.io/)
 
 <h3 align="left">📊 Languages and Tools</h3>
 
